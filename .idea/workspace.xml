@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f311e8de-97fe-4acc-96de-57151fbeb00b" name="Default Changelist" comment="default" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vlOUafJQ16ErEnra0kn9kaneQG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.stylelint" value="C:\Users\corni\WebstormProjects\proectTodo\node_modules\stylelint" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\corni\WebstormProjects\proectTodo\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\corni\WebstormProjects\proectTodo\server" />
+      <recent name="C:\Project\Todo1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\corni\WebstormProjects\todo3\src\UI\img" />
+      <recent name="C:\Users\corni\WebstormProjects\todo3\src\UI" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/client/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Debug Application" />
+      <item itemvalue="npm.npm start" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f311e8de-97fe-4acc-96de-57151fbeb00b" name="Default Changelist" comment="" />
+      <created>1627133226250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627133226250</updated>
+      <workItem from="1627133227515" duration="15856000" />
+      <workItem from="1627204692821" duration="15588000" />
+      <workItem from="1627222276352" duration="624000" />
+      <workItem from="1627385343281" duration="228000" />
+      <workItem from="1627385719045" duration="5994000" />
+      <workItem from="1628688972227" duration="18255000" />
+      <workItem from="1628708961308" duration="168000" />
+      <workItem from="1628709143262" duration="662000" />
+      <workItem from="1628760243366" duration="2604000" />
+      <workItem from="1628762971719" duration="809000" />
+    </task>
+    <task id="LOCAL-00001" summary="удален">
+      <created>1628763001901</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628763001901</updated>
+    </task>
+    <task id="LOCAL-00002" summary="файл содержащий константы">
+      <created>1628763029864</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628763029864</updated>
+    </task>
+    <task id="LOCAL-00003" summary="конфиг eslint">
+      <created>1628763041377</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1628763041377</updated>
+    </task>
+    <task id="LOCAL-00004" summary="gitignore для node_modules">
+      <created>1628763065674</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1628763065675</updated>
+    </task>
+    <task id="LOCAL-00005" summary="конфиг для pretteir">
+      <created>1628763091267</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1628763091267</updated>
+    </task>
+    <task id="LOCAL-00006" summary="конфиг для pretteir">
+      <created>1628763097267</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1628763097267</updated>
+    </task>
+    <task id="LOCAL-00007" summary="конфиг для stylelint">
+      <created>1628763108643</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1628763108643</updated>
+    </task>
+    <task id="LOCAL-00008" summary="зависимости клиента">
+      <created>1628763700446</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1628763700446</updated>
+    </task>
+    <task id="LOCAL-00009" summary="зависимость зависимостей клиента">
+      <created>1628763736663</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1628763736663</updated>
+    </task>
+    <task id="LOCAL-00010" summary="зависимость зависимостей сервера">
+      <created>1628763744629</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1628763744629</updated>
+    </task>
+    <task id="LOCAL-00011" summary="default">
+      <created>1628763768595</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1628763768595</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="удален" />
+    <MESSAGE value="файл содержащий константы" />
+    <MESSAGE value="конфиг eslint" />
+    <MESSAGE value="gitignore для node_modules" />
+    <MESSAGE value="конфиг для pretteir" />
+    <MESSAGE value="конфиг для stylelint" />
+    <MESSAGE value="Миграция бд" />
+    <MESSAGE value="Сид под данные" />
+    <MESSAGE value="основной файл отрисовки" />
+    <MESSAGE value="файл под swagger" />
+    <MESSAGE value="файл подключение к db" />
+    <MESSAGE value="файл созданный seqlize-cli и нужный для миграции" />
+    <MESSAGE value="defauly" />
+    <MESSAGE value="зависимости клиента" />
+    <MESSAGE value="зависимость зависимостей клиента" />
+    <MESSAGE value="зависимость зависимостей сервера" />
+    <MESSAGE value="default" />
+    <option name="LAST_COMMIT_MESSAGE" value="default" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
